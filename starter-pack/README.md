@@ -14,10 +14,10 @@
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [contoh: Kantin Kampus "Makmur"]
-- **Lokasi**: [contoh: Gedung A, Lantai 1]
-- **Pemilik**: [nama, kontak]
-- **Jenis Usaha**: [contoh: Kantin / Warung / Koperasi]
+- **Nama Unit Usaha**: [CleanWave Laundry]
+- **Lokasi**: [Jl. Potronanggan Kragilan RT 05, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191]
+- **Pemilik**: [CleanWave Laundry]
+- **Jenis Usaha**: [Laundry]
 
 ## Driving Question
 
