@@ -14,9 +14,9 @@
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [CleanWave Laundry]
+- **Nama Unit Usaha**: [Clean Wave Laundry]
 - **Lokasi**: [Jl. Potronanggan Kragilan RT 05, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191]
-- **Pemilik**: [CleanWave Laundry]
+- **Pemilik**: [Clean Wave Laundry]
 - **Jenis Usaha**: [Laundry]
 
 ## Driving Question
