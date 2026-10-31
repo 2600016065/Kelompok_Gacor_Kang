@@ -4,10 +4,11 @@
 
 | Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Nama 1] | [NIM] | Discover, Build |
-| [Nama 2] | [NIM] | Frame, Test |
-| [Nama 3] | [NIM] | Define, Communicate |
-| [Nama 4] | [NIM] | Design, Reflect |
+| [Satria Lutfian Hafid Atallah] | [2615016092] | Discover |
+| [Arbain Royyan Zein Alhadad] | [2600016065] | Frame, Test |
+| [Clearesta Zaky Edel Irawan] | [2600016073] | Define, Communicate |
+| [Muhammad Ilham] | [2600016063] | Design, Reflect |
+| [Sebastianus Mita Betekeneng] | [2600016086] | build |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
