@@ -28,18 +28,18 @@ Related Files:
 *Dipenuhi dari hasil WS02–WS04.*
 
 ## Problem Brief
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [CleanWave Laundry]
+**Tim**: [ Satria Lutfian Hafid Atallah,Clearesta Zaky Edel Irawan,Muhammad Ilham,Arbain Royyan Zein Alhadad,Sebastianus Mita Betekeneng] | **Tanggal**: [DD/10/2026] | **Versi**: [v1.0]
 
 ### 1. User / Context
-- Nama unit usaha / organisasi: [nama]
-- Jenis usaha / layanan: [mis. kantin kampus, warung, koperasi]
-- Lokasi: [lokasi]
-- Deskripsi operasional: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- Narahubung / pemilik: [nama, jabatan, kontak]
+- Nama unit usaha / organisasi: [CleanWave Laundry]
+- Jenis usaha / layanan: [laundry]
+- Lokasi: [599J+CWH, Jl. Potronanggan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191 / 750m dari kampus 4]
+- Deskripsi operasional: [wawancara, karyawan, 07.00-22-00]
+- Narahubung / pemilik: []
 
 ### 2. Observed Situation (Situasi yang Diamati)
-- Fenomena yang diamati di lapangan: [...]
+- Fenomena yang diamati di lapangan: [observasi kami baru dilaksanakan sekali dan mendapatkan sistem pengoprasian cara kerja sudah baik, bisa dibilang cukup susah menemukan masalah di laundry tersebut]
 
 ### 3. Evidence (Bukti)
 - Data kuantitatif pendukung (indikator, nilai/baseline, sumber data, tanggal):
