@@ -1,7 +1,7 @@
 # D1 — Problem Brief
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — Clenwave Laundry
+**Tim**: Gacor Kang | **Tanggal**: 16/10/2026 | **Versi**: [v1.0]
 **Template**: TPL-01
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
@@ -11,31 +11,30 @@
 
 ## 1. Profil Organisasi / Unit Usaha
 
-- **Nama unit usaha**: [nama]
-- **Jenis usaha / layanan**: [mis. kantin kampus, warung, koperasi, unit layanan kampus]
-- **Lokasi**: [lokasi]
-- **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- **Narahubung / pemilik**: [nama, jabatan, kontak]
+- **Nama unit usaha**: Cleanwave Laundry.
+- **Jenis usaha / layanan**: Jasa cuci pakaian.
+- **Lokasi**: 599J+CWH, Jl. Potronanggan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191 / 750m dari kampus 4.
+- **Deskripsi singkat operasional**: Proses mencuci pakaian, staff laundry, dari pagi sampai malam.
+- **Narahubung / pemilik**: Esa Saputra / Pemilik.
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [pernyataan masalah yang jelas — fokus pada MASALAH, bukan solusi]
-- **Pihak yang terdampak**: [siapa terkena dampak dan bagaimana]
-- **Frekuensi / keparahan**: [kapan terjadi, seberapa sering, seberapa mengganggu]
+- **Masalah utama**: Bug sistem aplikasi dan sering kehabisan stock barang.
+- **Pihak yang terdampak**: Staff laundry dan pelanggan.
+- **Frekuensi / keparahan**: bug sistem  dan kehabisan stock 1-2 kali dalam seminggu
 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: [fitur/cakupan yang dikerjakan]
-- **Tidak diselesaikan (dan alasan)**: [di luar cakupan + alasan]
+- **Diselesaikan dalam proyek ini**: Pembuatan serta perbaikan sistem aplikasi.
+- **Tidak diselesaikan (dan alasan)**: Layanan antar-jemput otomatis (Memerlukan pengembangan sistem dan operasional tambahan).
 - **Asumsi yang dipakai**: [asumsi kunci]
 
 ## 4. Data Kuantitatif Pendukung
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
-| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
-| [tambah baris jika perlu] | | | |
+| Kehabisan Stock | 1-2 kali/minggu | wawancara | 16/10 |
+| Bug sistem Aplikasi | 1-2 kali /minggu | observasi & wawancara | 16/10 |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
@@ -43,9 +42,10 @@
 
 ## 6. Daftar Rujukan / Bukti
 
-- [Observasi lapangan tanggal ...]
-- [Wawancara pemilik tanggal ...]
-- [Dokumen pendukung lainnya]
+- Observasi lapangan tanggal 16 / 10 / 2026
+- Wawancara pemilik tanggal ....
+- Wawancara Karyawan tanggal 16 / 10 / 2026
+- 
 
 ---
 
