@@ -249,39 +249,46 @@ Related Files:
 *Dipenuhi dari hasil WS15.*
 
 ## AI Usage Disclosure & Verification Note
-**Project**: ... | **Tim**: ... | **Tanggal**: [DD/MM/YYYY]
+**Project**: cleanwave laundry | **Tim**: gacor kang | **Tanggal**: [11/11/2026]
 
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
-| D1 | [nama tool] | [bagian] | [cara modifikasi] |
-| D2 | ... | ... | ... |
-| D3 | ... | ... | ... |
-| D4 | ... | ... | ... |
+| D1 | Gemini / ChatGPT | Membuat draf pertanyaan wawancara, analisis akar masalah, dan batasan sistem.  | Disesuaikan dengan kondisi asli CleanWave Laundry (kapasitas mesin 6 kg, maksimal 150 kg/hari, dan kasus salah bedakan selimut dengan bed cover). |
+| D2 | Gemini / ChatGPT | Menyusun kerangka User Story, metrik BPI, tabel IPO, dan pseudocode kasir | Diubah sesuai layanan mitra (cuci komplit, kering, setrika, prioritas), metode bayar (Tunai/QRIS, DP/Lunas), serta logika validasi eror kasir. |
+| D3 | Gemini / ChatGPT | koneksi database, dan akurasi perhitungan total harga/stok  | Menjalankan prototipe secara lokal dan menguji skenario sukses (Happy Path) maupun skenario eror (Exception Path) |
+| D4 |Gemini / ChatGPT | Kesesuaian data antara dokumen D1–D3 dengan materi presentasi serta tata bahasa | Membaca ulang seluruh dokumen (proofreading) dan memverifikasi kelengkapan lembar pengesahan mitra dan dosen |
 
 ### 2. Verification Note
 | Artefak | Yang Dicek Ulang Manual | Cara Verifikasi |
 |---|---|---|
-| D1 | [angka/klaim] | [hitung ulang, cek sumber] |
-| D2 | ... | ... |
-| D3 | [sintaks & logika] | [jalankan di mesin, uji kasus] |
-| D4 | [fakta & bahasa] | [cek kebenaran isi] |
+| D1 | Data waktu transaksi (2 menit), waktu rekap (25 menit), dan masalah operasional mitra. | Dicocokkan langsung dengan catatan wawancara pemilik (Esa Saputra) dan karyawan saat kunjungan 16 Oktober 2026. |
+| D2 | Alur 4 lapisan arsitektur, tabel IPO, Flowchart, dan hitungan Pseudocode. | Diuji coba hitung manual (simulasi transaksi 4 kg = Rp28.000, cek status DP/Lunas) dan dikonfirmasi ulang ke pemilik pada 11 November 2026 |
+| D3 | Sintaks kode, koneksi database, dan akurasi perhitungan total harga/stok | Menjalankan prototipe secara lokal dan menguji skenario sukses (Happy Path) maupun skenario eror (Exception Path) |
+| D4 | Kesesuaian data antara dokumen D1–D3 dengan materi presentasi serta tata bahasa | dan memverifikasi kelengkapan lembar pengesahan mitra dan dosen  |
 
 ### 3. Pernyataan Kejujuran
 Kami menyatakan daftar di atas lengkap dan jujur. Seluruh output AI telah dianalisis, dimodifikasi, dan diverifikasi secara manual.
-Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
+Tanda tangan seluruh anggota: 
+Satria Lutfian Hafid Atallah (Phase Lead 1 - Discover)
+Arbain Royyan Zein Alhadad (Phase Lead 2 - Frame)
+Clearesta Zaky Edel Irawan (Phase Lead 3 - Define)
+Muhammad Ilham (Phase Lead 4 - Design)
+Sebastianus Mita Betekeneng (Phase Lead 5 - Build)
 
 ## TPL-08 — Template Decision Log (Supporting Evidence)
 *Dipenuhi dari hasil WS08, WS12, WS15.*
 
 ## Decision Log
-**Project**: ... | **Tim**: ... | **Periode**: [Minggu 5–16]
+**Project**: cleanwave laundry | **Tim**: gacor kang | **Periode**: [Minggu 5–16]
 
 | # | Tanggal | Konteks | Keputusan | Alternatif yang Dipertimbangkan | Alasan | Konsekuensi |
 |---|---|---|---|---|---|---|
-| 1 | [DD/MM] | [latar belakang] | [keputusan] | [opsi lain] | [alasan berdasarkan bukti] | [dampak] |
-| 2 | ... | ... | ... | ... | ... | ... |
-
+| 1 | DD/MM | ada risiko eror saat jumlah beli melebihi sisa stok barang | menambah fitur pengecekan stok otomatis di alur transaksi. | mengecek stok barang secara manual oleh kasir. | mencegah eror logika saat program python dijalankan (kelayakan teknis). | diagram flowchart dan pseudocode di ws07 dan d2 (tpl-02) harus diperbarui. |
+| 2 | DD/MM  | penguji menyarankan fitur pembayaran e-wallet otomatis lewat api bank. | menolak fitur api bank dan hanya memakai pembayaran tunai atau qris statis. | membuat integrasi api pembayaran digital secara penuh. | waktu pengerjaan semester tidak cukup dan terlalu rumit untuk umkm mitra. | fokus proyek tetap terjaga dan selesai tepat waktu sesuai batasan awal. |
+| 3 | DD/MM  | mitra mencoba langsung aplikasi kasir untuk transaksi tunai, cek stok, dan laporan harian. | menyatakan fitur utama aplikasi valid (diterima) tanpa mengubah bentuk tampilan aplikasi. | mengubah tampilan teks (cli) menjadi aplikasi web atau grafis penuh. | semua skenario uji berhasil dijalankan dengan cepat dan akurat oleh mitra. | versi aplikasi saat ini dikunci untuk laporan d3 (tpl-03), hanya perlu perbaikan kecil. |
+| 4 | DD/MM  | pameran akhir di studio berisiko terkendala jaringan internet dan layar laptop yang kecil. | menjalankan aplikasi secara offline memakai layar monitor tambahan, poster a1, dan buku portofolio. | menampilkan aplikasi lewat server online hanya di satu layar laptop. | memastikan demo berjalan lancar tanpa internet dan materi mudah dibaca pengunjung. | penanggung jawab wajib memastikan baterai laptop penuh, kabel hdmi siap, dan dokumen sudah dicetak. |
+| 5 | DD/MM  | waktu presentasi pameran dibatasi maksimal 5 menit saat latihan (rehearsal). | membagi waktu bicara tiap anggota dan mengurutkan alur demo agar pas 5 menit. | menjelaskan seluruh isi proyek secara bebas tanpa batasan waktu. | masukan dosen saat latihan menekankan kejelasan suara, alur bicara, dan kerapian demo. | setiap anggota punya tugas jelas sehingga presentasi berjalan rapi dan tepat waktu. |
 *Aturan: minimal 5 entri; setiap keputusan penting (pemilihan masalah, batasan, desain, revisi, penggunaan AI) wajib dicatat.*
 
 ## TPL-09 — Template Meeting Log & Peer Assessment (Supporting Evidence)
