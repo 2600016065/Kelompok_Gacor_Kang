@@ -59,7 +59,11 @@ Related Files:
   |Durasi rekapitulasi penjualan harian|25 menit|WS03|16/10/2026|
   |Frekuensi Kesalahan Pencatatan / Selisih|1-2 Kali|WS03|16/10/2026|
   |Jumlah Pelanggan pada Jam Sibuk|150 KG|WS03|16/10/2026|
-- Kutipan observasi/wawancara kunci: [...]
+- Kutipan observasi/wawancara kunci:
+  1. Pemilik menjelaskan bahwa aplikasi digunakan untuk mencatat data pelanggan dan transaksi serta melihat laporan pemasukan dan pengeluaran.
+  2. Pemilik menjelaskan bahwa informasi status pesanan dapat disampaikan kepada pelanggan melalui WhatsApp dan tautan pelacakan yang disediakan oleh laundry.
+  3. “Makanya suka sering kelupaan kalau barangnya udah habis. Jadi kita pergi dadakan.”
+  4. Pemilik menyampaikan bahwa volume cucian tertinggi dapat mencapai sekitar 150 kg dalam satu hari.
 
 ### 4. Insight
 - Pemahaman mengapa masalah ini terjadi: [...]
