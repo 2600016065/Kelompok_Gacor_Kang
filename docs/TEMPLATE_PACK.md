@@ -288,29 +288,39 @@ Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
 *Dipenuhi dari hasil WS01, WS13, WS16.*
 
 ## Meeting Log & Peer Assessment
-**Project**: ... | **Tim**: ... | **Periode**: [Minggu 1–16]
+**Project**: cleanwave laundry | **Tim**: gacor kang | **Periode**: [Minggu 1–16]
 
 ### 1. Kesepakatan Norma Tim & Rotasi Phase Lead
-[Norma + tabel rotasi phase lead + tanda tangan]
+norma tim: aktif membalas pesan di grup, hadir rapat tepat waktu, mengumpulkan tugas sebelum tenggat, membagi beban kerja secara adil, dan memakai ai hanya sebagai alat bantu yang wajib dicek ulang manual.
+Satria Lutfian Hafid Atallah (Phase Lead 1 - Discover)
+Arbain Royyan Zein Alhadad (Phase Lead 2 - Frame)
+Clearesta Zaky Edel Irawan (Phase Lead 3 - Define)
+Muhammad Ilham (Phase Lead 4 - Design)
+Sebastianus Mita Betekeneng (Phase Lead 5 - Build)
 
 ### 2. Log Pertemuan
 | Tanggal | Agenda | Keputusan | Tindak Lanjut | PIC |
-|---|---|---|---|---|
-| ... | ... | ... | ... | ... |
+|dd/mm (ws01) | pembentukan tim, pemilihan mitra, dan aturan kerja | memilih umkm laundry cleanwave, menyepakati 5 norma tim, dan membagi jadwal ketua fase | menyiapkan pertanyaan wawancara awal untuk mitra cleanwave (ws02) | Satria Lutfian Hafid Atallah |
 
 ### 3. Log Kontribusi Anggota
 | Anggota | Peran (Fase) | Kontribusi Utama | Minggu |
-|---|---|---|---|
-| ... | ... | ... | ... |
+|Satria Lutfian Hafid Atallah|phase lead 1 (discover)|memimpin pembentukan tim, menyusun 5 norma kerja (ws01), dan menyiapkan observasi mitra cleanwave. |1|
+| Arbain Royyan Zein Alhadad | phase lead 2 & 6 (frame & test) | merumuskan masalah mitra serta memimpin uji coba lapangan (uat) dan evaluasi kode (critique ii / ws13). | 2 & 11–12 |
+| Clearesta Zaky Edel Irawan | phase lead 3 & 7 (define & communicate) | menyusun kebutuhan pengguna serta menyiapkan materi presentasi (pitch deck) dan stan pameran. | 3–4 & 14–15 |
+| Muhammad Ilham | phase lead 4 & 8 (design & reflect) | merancang alur flowchart & pseudocode, memimpin demo day, dan merekap refleksi akhir (ws16). | 5–7 & 13–16 |
+| Sebastianus Mita Betekeneng | phase lead 5 (build) | membangun dan mengembangkan kode dasar prototipe aplikasi kasir/stok cli python (ws09–ws11). | 9–12 |
 
 ### 4. Peer Assessment
 | Anggota | Umpan Balik (be kind, be specific, be helpful) |
-|---|---|
-| ... | ... |
+|Satria Lutfian Hafid Atallah|sangat baik dalam mengawali koordinasi tim dan menyusun aturan kerja yang jelas; ke depannya bisa lebih aktif mengingatkan jadwal rapat mingguan.|
+| Arbain Royyan Zein Alhadad | sangat teliti saat memimpin pengujian kode dan mencatat masukan critique ii; sebaiknya pembagian waktu saat diskusi evaluasi lebih diperketat. |
+|Clearesta Zaky Edel Irawan|sangat rapi dalam menerjemahkan kebutuhan mitra dan menyiapkan bahan presentasi; akan lebih baik lagi jika ikut mengecek alur kode program.|
+|Muhammad Ilham|sangat runtut dalam menyusun rancangan sistem serta merapikan portofolio akhir; bisa ditingkatkan lagi dalam mengoordinasikan pengumpulan tugas lebih awal.|
+|Sebastianus Mita Betekeneng|sangat cekatan dalam menyusun logika dan hitungan kode python agar akurat; ke depannya bisa lebih sering memberi kabar progres pembuatan kode di grup.|
 
 ### 5. Refleksi Etika / Perilaku
-- Kepatuhan prosedur: ...
-- Refleksi nilai (agama/kebangsaan sesuai konteks MK): ...
+- Kepatuhan prosedur: im menjalankan seluruh tahapan proyek sesuai urutan, bergantian menjadi ketua fase secara adil, dan selalu memeriksa ulang secara manual setiap hasil bantuan ai sebelum dipakai.
+- Refleksi nilai (agama/kebangsaan sesuai konteks MK): tim menerapkan nilai kejujuran akademik, saling menghargai saat memberi kritik (be kind, be specific, be helpful), bermusyawarah saat menyelesaikan masalah, serta membuat solusi nyata untuk membantu UMKM (laundry cleanwave).
 
 ## TPL-10 — Template Profil LinkedIn / Portofolio Digital (Supporting Evidence)
 *Dipenuhi dari hasil WS16.*
