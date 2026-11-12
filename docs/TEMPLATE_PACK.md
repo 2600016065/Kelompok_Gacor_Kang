@@ -28,15 +28,20 @@ Related Files:
 *Dipenuhi dari hasil WS02–WS04.*
 
 ## Problem Brief
-**Project**: Digital Problem Framing Mini Project — [CleanWave Laundry]
-**Tim**: [ Satria Lutfian Hafid Atallah,Clearesta Zaky Edel Irawan,Muhammad Ilham,Arbain Royyan Zein Alhadad,Sebastianus Mita Betekeneng] | **Tanggal**: [DD/10/2026] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — CleanWave Laundry
+**Tim**: 1. Satria Lutfian Hafid Atallah
+         2. Clearesta Zaky Edel Irawan
+         3. Muhammad Ilham
+         4. Arbain Royyan Zein Alhadad
+         5. Sebastianus Mita Betekeneng 
+**Tanggal**: 16/10/2026 | **Versi**: [v1.0]
 
 ### 1. User / Context
-- Nama unit usaha / organisasi: [CleanWave Laundry]
-- Jenis usaha / layanan: [laundry]
-- Lokasi: [599J+CWH, Jl. Potronanggan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191 / 750m dari kampus 4]
-- Deskripsi operasional: [wawancara, karyawan, 07.00-22-00]
-- Narahubung / pemilik: []
+- Nama unit usaha / organisasi: CleanWave Laundry
+- Jenis usaha / layanan: Laundry
+- Lokasi: 599J+CWH, Jl. Potronanggan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191 / 750m dari kampus 4.
+- Deskripsi operasional: Buka setiap hari dari pukul 07.00 pagi sampai 22.00 malam, dengan sistem kerja shift antara karyawan dengan pemilik.
+- Narahubung / pemilik: Esa Saputra
 
 ### 2. Observed Situation (Situasi yang Diamati)
 - Fenomena yang diamati di lapangan: [observasi kami baru dilaksanakan sekali dan mendapatkan sistem pengoprasian cara kerja sudah baik, bisa dibilang cukup susah menemukan masalah di laundry tersebut]
