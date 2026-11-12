@@ -362,19 +362,75 @@ Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
 *Diisi per mahasiswa; format lengkap di `individual_competency_passport`.*
 
 ## Individual Competency Passport
-**Nama**: ... | **NIM**: ... | **Semester**: 1
+**Nama**: Satria Lutfian Hafid Atallah | **NIM**: 2615016092 | **Semester**: 1
 
 | Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
 |---|---|---|---|---|
-| Problem Framing | D1 + Gate 1 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| System Thinking | D2 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| Computational Thinking | Flowchart/Pseudocode | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| Programming | D3 + Gate 2 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| Testing | D3 (log uji) | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| Communication | D4 + presentasi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| Collaboration | Team evidence | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| AI Literacy | AI disclosure | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| Reflection | D4 refleksi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Problem Framing | D1 + Gate 1 | 90 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 90 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 85 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | 85 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | 95 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | 90 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | 85 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+
+**Nama**: Clearesta Zaky Edel Irawan | **NIM**: 2600016073 | **Semester**: 1
+
+| Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
+|---|---|---|---|---|
+| Problem Framing | D1 + Gate 1 | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | 75 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | 85 | cukupkompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+
+**Nama**: Muhammad Ilham | **NIM**: 2600016063 | **Semester**: 1
+
+| Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
+|---|---|---|---|---|
+| Problem Framing | D1 + Gate 1 | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | 75 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | 85 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+
+**Nama**: Arbain Royyan Zein Alhadad | **NIM**: 2600016065 | **Semester**: 1
+
+| Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
+|---|---|---|---|---|
+| Problem Framing | D1 + Gate 1 | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | 75 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | 90 | kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | 85 | cukupkompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | 85 | cukupkompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+
+**Nama**: Sebastianus Mita Betekeneng | **NIM**: 2600016086 | **Semester**: 1
+
+| Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
+|---|---|---|---|---|
+| Problem Framing | D1 + Gate 1 | 75 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | 80 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | 85 | cukup kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
 
 ---
 
