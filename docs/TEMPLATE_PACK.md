@@ -66,26 +66,41 @@ Related Files:
   4. Pemilik menyampaikan bahwa volume cucian tertinggi dapat mencapai sekitar 150 kg dalam satu hari.
 
 ### 4. Insight
-- Pemahaman mengapa masalah ini terjadi: [...]
+- Pemahaman mengapa masalah ini terjadi: CleanWave Laundry telah menggunakan aplikasi untuk mencatat transaksi serta pemasukan dan pengeluaran. Namun, pencatatan pengeluaran pembelian bahan operasional belum disertai dengan pemantauan jumlah persediaan barang secara langsung. Akibatnya, pemilik masih perlu mengingat atau memeriksa kondisi persediaan secara langsung. Hal ini menyebabkan pemilik terkadang terlambat mengetahui ketika persediaan sudah habis sehingga harus melakukan pembelian secara mendadak.
 
 ### 5. Problem Statement
-- Pernyataan masalah yang jelas (bukan solusi): [...]
-- Pihak yang terdampak & keparahan: [...]
+- Pernyataan masalah yang jelas (bukan solusi): CleanWave Laundry belum memiliki pencatatan dan pemantauan jumlah persediaan bahan operasional, seperti detergen dan plastik, secara terperinci. Aplikasi yang digunakan saat ini hanya membantu mencatat nominal pengeluaran pembelian, sehingga pemilik belum dapat mengetahui jumlah persediaan yang tersedia secara langsung.
+  
+- Pihak yang terdampak & keparahan: Pihak yang terdampak adalah pemilik dan karyawan CleanWave Laundry. Pemilik mengalami kesulitan dalam mengetahui kondisi persediaan secara langsung, sedangkan karyawan dapat terdampak ketika bahan operasional yang dibutuhkan ternyata sudah habis. Tingkat keparahan masalah belum dapat diukur secara kuantitatif, tetapi kondisi tersebut dapat menyebabkan pembelian bahan operasional secara mendadak.
 
 ### 6. Impact
-- Dampak bila masalah tidak diselesaikan: [...]
+- Dampak bila masalah tidak diselesaikan: Jika masalah ini tidak terselesaikan, pemilik akan tetap bergantung pada ingatan dan pemeriksaan secara langsung untuk mengetahui ketersediaan bahan operasional. Akibatnya, persediaan yang habis berisiko terlambat diketahui dan dapat menimbulkan pembelian mendadak. Selain itu, pemilik akan kesulitan memperoleh informasi jumlah stok yang tersedia secara cepat dan teratur.
 
 ### 7. Scope
-- Diselesaikan dalam proyek ini: [...]
+- Diselesaikan dalam proyek ini: Diselesaikan dalam proyek ini:
+1. Membuat fitur pencatatan data persediaan bahan operasional, seperti detergen dan plastik.
+2. Membuat fitur penambahan stok ketika dilakukan pembelian bahan operasional.
+3. Membuat fitur pengurangan stok ketika bahan operasional digunakan.
+4. Menampilkan informasi jumlah persediaan yang tersedia.
+5. Menyediakan rekapitulasi data persediaan untuk membantu pemilik memantau stok.
 
 ### 8. Non-Scope
-- Tidak diselesaikan (dan alasan): [...]
+- Tidak diselesaikan (dan alasan):
+1. Integrasi dengan pembayaran digital atau QRIS karena tidak berkaitan langsung dengan permasalahan pemantauan persediaan.
+2. Pemesanan bahan operasional secara otomatis kepada pemasok karena proyek berfokus pada pencatatan dan pemantauan stok.
+3. Pengelolaan sumber daya manusia, seperti jadwal kerja dan penggajian karyawan, karena berada di luar kebutuhan utama proyek.
+4. Pengembangan sistem untuk banyak cabang karena proyek hanya berfokus pada kebutuhan operasional CleanWave Laundry.
 
 ### 9. Success Metric
-- Metrik yang menunjukkan masalah teratasi: [...]
+- Metrik yang menunjukkan masalah teratasi:
+1. Kelengkapan pencatatan stok, yaitu seluruh bahan operasional yang dikelola telah memiliki data persediaan.
+2. Ketepatan pembaruan stok, yaitu jumlah stok bertambah ketika ada pembelian dan berkurang ketika bahan digunakan.
+3. Kesesuaian jumlah stok dalam sistem dengan jumlah stok fisik berdasarkan pemeriksaan.
+4. Kemudahan pemilik dalam mengetahui jumlah persediaan bahan operasional yang tersedia.
+5. Berkurangnya kejadian persediaan habis yang baru diketahui ketika bahan akan digunakan.
 
 ### 10. Daftar Rujukan / Bukti
-- [Observasi lapangan tanggal ...], [Wawancara pemilik tanggal ...], [Dokumen pendukung]
+- [Observasi lapangan tanggal 16/10/2026], [Wawancara pemilik tanggal 16/10/2026], [WS03 DAN WS04]
 
 ---
 
