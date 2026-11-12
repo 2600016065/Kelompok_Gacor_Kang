@@ -122,7 +122,7 @@ Related Files:
 ### 2. User Story
 | # | User Story | Prioritas (Tinggi/Sedang/Rendah) |
 |---|---|---|
-| 1 | Sebagai [peran], saya ingin [fitur] sehingga [manfaat] | [ ] |
+| 1 | Sebagai Pemilik Usaha Laundry, saya ingin melihat ringkasan laporan pendapatan harian, mingguan, dan bulanan serta metode pembayaran yang digunakan (Tunai/QRIS). Sehingga saya dapat memantau omzet harian tanpa harus menghitung dan mencocokkan nota kertas secara manual setiap malam.  | [ ] |
 | 2 | ... | ... |
 
 ### 3. Requirements
