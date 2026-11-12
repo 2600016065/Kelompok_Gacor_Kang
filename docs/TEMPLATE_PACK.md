@@ -40,17 +40,26 @@ Related Files:
 - Nama unit usaha / organisasi: CleanWave Laundry
 - Jenis usaha / layanan: Laundry
 - Lokasi: 599J+CWH, Jl. Potronanggan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191 / 750m dari kampus 4.
-- Deskripsi operasional: Buka setiap hari dari pukul 07.00 pagi sampai 22.00 malam, dengan sistem kerja shift antara karyawan dengan pemilik.
+- Deskripsi operasional: CleanWave Laundry beroperasi setiap hari mulai pukul 07.00 hingga sekitar pukul 22.00. Kegiatan operasional melibatkan karyawan dan pemilik yang turut membantu pekerjaan laundry. Proses pelayanan meliputi penerimaan pesanan, penimbangan, pemilihan layanan, pencatatan transaksi, penyortiran, pencucian, pengeringan, penyetrikaan, pengemasan, hingga penyerahan pakaian kepada pelanggan.
 - Narahubung / pemilik: Esa Saputra
 
 ### 2. Observed Situation (Situasi yang Diamati)
-- Fenomena yang diamati di lapangan: 
+- Fenomena yang diamati di lapangan:
+1. CleanWave Laundry telah menggunakan aplikasi untuk mencatat data pelanggan dan transaksi, serta membantu pemilik melihat laporan pemasukan dan pengeluaran.
+2. Informasi status pesanan dapat disampaikan kepada pelanggan melalui WhatsApp dan tautan pelacakan yang disediakan oleh laundry.
+3. Pengeluaran untuk pembelian bahan operasional dapat dicatat melalui aplikasi, tetapi jumlah persediaan seperti detergen dan plastik belum dicatat atau dipantau secara langsung melalui aplikasi.
+4. Pemilik menyampaikan bahwa volume cucian tertinggi pada jam operasional yang ramai dapat mencapai sekitar 150 kg dalam satu hari.
+
 
 ### 3. Evidence (Bukti)
 - Data kuantitatif pendukung (indikator, nilai/baseline, sumber data, tanggal):
   | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
-  |---|---|---|---|
-  | [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
+1 |Rata-rata waktu transaksi per pelanggan|2 menit|WS03|16/10/2026|
+2 |Durasi rekapitulasi penjualan harian|25 menit|WS03|16/10/2026|
+3 |Frekuensi Kesalahan Pencatatan / Selisih|1-2 Kali|WS03|16/10/2026|
+4 |Jumlah Pelanggan pada Jam Sibuk|150 KG|WS03|16/10/2026|
+  
+  [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
 - Kutipan observasi/wawancara kunci: [...]
 
 ### 4. Insight
