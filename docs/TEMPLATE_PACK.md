@@ -304,15 +304,22 @@ Kami menyatakan daftar di atas lengkap dan jujur. Seluruh output AI telah dianal
 Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
 
 ## TPL-08 — Template Decision Log (Supporting Evidence)
-*Dipenuhi dari hasil WS08, WS12, WS15.*
+*Dipenuhi dari hasil WS08, WS12, WS15.* 
 
 ## Decision Log
 **Project**: ... | **Tim**: ... | **Periode**: [Minggu 5–16]
 
 | # | Tanggal | Konteks | Keputusan | Alternatif yang Dipertimbangkan | Alasan | Konsekuensi |
 |---|---|---|---|---|---|---|
-| 1 | [DD/MM] | [latar belakang] | [keputusan] | [opsi lain] | [alasan berdasarkan bukti] | [dampak] |
-| 2 | ... | ... | ... | ... | ... | ... |
+| 1 | DD/MM | ada risiko eror saat jumlah beli melebihi sisa stok barang | menambah fitur pengecekan stok otomatis di alur transaksi. | mengecek stok barang secara manual oleh kasir. | mencegah eror logika saat program python dijalankan (kelayakan teknis). |diagram flowchart dan pseudocode di ws07 dan d2 (tpl-02) harus diperbarui. |
+| 2 | DD/MM | penguji menyarankan fitur pembayaran e-wallet otomatis lewat api bank. | menolak fitur api bank dan hanya memakai pembayaran tunai atau qris statis. | membuat integrasi api pembayaran digital secara penuh. | waktu pengerjaan semester tidak cukup dan terlalu rumit untuk umkm mitra. | fokus proyek tetap terjaga dan selesai tepat waktu sesuai batasan awal. |
+| 3 | DD/MM | mitra mencoba langsung aplikasi kasir untuk transaksi tunai, cek stok, dan laporan harian. | menyatakan fitur utama aplikasi valid (diterima) tanpa mengubah bentuk tampilan aplikasi. | mengubah tampilan teks (cli) menjadi aplikasi web atau grafis penuh. | semua skenario uji berhasil dijalankan dengan cepat dan akurat oleh mitra. | versi aplikasi saat ini dikunci untuk laporan d3 (tpl-03), hanya perlu perbaikan kecil. |
+| 4 | DD/MM | pameran akhir di studio berisiko terkendala jaringan internet dan layar laptop yang kecil. | menjalankan aplikasi secara offline memakai layar monitor tambahan, poster a1, dan buku portofolio. | menampilkan aplikasi lewat server online hanya di satu layar laptop. | memastikan demo berjalan lancar tanpa internet dan materi mudah dibaca pengunjung. | penanggung jawab wajib memastikan baterai laptop penuh, kabel hdmi siap, dan dokumen sudah dicetak. |
+| 5 | DD/MM | waktu presentasi pameran dibatasi maksimal 5 menit saat latihan (rehearsal). | membagi waktu bicara tiap anggota dan mengurutkan alur demo agar pas 5 menit. | menjelaskan seluruh isi proyek secara bebas tanpa batasan waktu. | masukan dosen saat latihan menekankan kejelasan suara, alur bicara, dan kerapian demo. | setiap anggota punya tugas jelas sehingga presentasi berjalan rapi dan tepat waktu. |
+
+
+
+
 
 *Aturan: minimal 5 entri; setiap keputusan penting (pemilihan masalah, batasan, desain, revisi, penggunaan AI) wajib dicatat.*
 
