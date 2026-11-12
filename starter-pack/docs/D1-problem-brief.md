@@ -43,7 +43,7 @@
 ## 6. Daftar Rujukan / Bukti
 
 - Observasi lapangan tanggal 16 / 10 / 2026
-- Wawancara pemilik tanggal ....
+- Wawancara pemilik tanggal 11 / 11 / 2026
 - Wawancara Karyawan tanggal 16 / 10 / 2026
 - 
 
