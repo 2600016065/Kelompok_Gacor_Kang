@@ -108,11 +108,16 @@ Related Files:
 *Dipenuhi dari hasil WS05–WS08.*
 
 ## System & Solution Design
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — Cleanwave Laundry
+**Tim**: 1. Satria Lutfian Hafid Atallah
+         2. Clearesta Zaky Edel Irawan
+         3. Muhammad Ilham
+         4. Arbain Royyan Zein Alhadad
+         5. Sebastianus Mita Betekeneng 
+| **Tanggal**: 11/11/2026 | **Versi**: [v1.0]
 
 ### 1. User
-- Pengguna utama solusi & yang terdampak: [...]
+- Pengguna utama solusi & yang terdampak: Pemilik, karyawan & Pelanggan.
 
 ### 2. User Story
 | # | User Story | Prioritas (Tinggi/Sedang/Rendah) |
