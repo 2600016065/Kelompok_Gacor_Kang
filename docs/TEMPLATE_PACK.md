@@ -54,9 +54,13 @@ Related Files:
 ### 3. Evidence (Bukti)
 - Data kuantitatif pendukung (indikator, nilai/baseline, sumber data, tanggal):
   | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
-  1 |Rata-rata waktu transaksi per pelanggan|2 menit|WS03|16/10/2026|
-  2 |Durasi rekapitulasi penjualan harian|25 menit|WS03|16/10/2026|
+
+   1 |Rata-rata waktu transaksi per pelanggan|2 menit|WS03|16/10/2026|
+
+   2 |Durasi rekapitulasi penjualan harian|25 menit|WS03|16/10/2026|
+
   3 |Frekuensi Kesalahan Pencatatan / Selisih|1-2 Kali|WS03|16/10/2026|
+
   4 |Jumlah Pelanggan pada Jam Sibuk|150 KG|WS03|16/10/2026|
   
   [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
