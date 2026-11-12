@@ -44,7 +44,7 @@ Related Files:
 - Narahubung / pemilik: Esa Saputra
 
 ### 2. Observed Situation (Situasi yang Diamati)
-- Fenomena yang diamati di lapangan: [observasi kami baru dilaksanakan sekali dan mendapatkan sistem pengoprasian cara kerja sudah baik, bisa dibilang cukup susah menemukan masalah di laundry tersebut]
+- Fenomena yang diamati di lapangan: 
 
 ### 3. Evidence (Bukti)
 - Data kuantitatif pendukung (indikator, nilai/baseline, sumber data, tanggal):
